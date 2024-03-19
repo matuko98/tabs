@@ -1,0 +1,13 @@
+.all-tabs {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.tabs {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+  width: 300px;
+}
